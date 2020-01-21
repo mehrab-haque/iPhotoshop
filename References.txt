@@ -1,0 +1,7 @@
+InsidePolygon : http://www.eecs.umich.edu/courses/eecs380/HANDOUTS/PROJ2/InsidePoly.html
+
+Bmp Output : https://stackoverflow.com/questions/30423590/generate-bmp-file-from-array-of-rgb-values/30423762
+
+Drag and drop : https://stackoverflow.com/questions/21345232/handling-drag-and-drop-files-in-a-running-windows-console-application
+
+Contrast : https://stackoverflow.com/questions/2976274/adjust-bitmap-image-brightness-contrast-using-c
